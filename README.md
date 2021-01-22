@@ -6,7 +6,7 @@
 - [Parte 1](#Parte 1)
 - [Parte 2](#Parte 2)
 
-# Parte 1
+#Parte 1
 ###### Introdução à Ciência da Computação com Python - Parte 1
 
 ### Sobre o curso 
@@ -22,7 +22,7 @@ possíveis, sem utilizar de classes e afins.
 E no geral tentei seguir as recomendações da [PEP 8](https://www.python.org/dev/peps/pep-0008/).
 
 
-# Parte 2
+#Parte 2
 ###### Introdução à Ciência da Computação com Python - Parte 2
 
 ### Sobre o curso 
