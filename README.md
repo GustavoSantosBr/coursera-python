@@ -3,9 +3,8 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/GustavoSantosBr/)
 [![Minimum Python Version](https://img.shields.io/badge/python-%5E3.9.1-blue)](https://www.python.org)
 
-* [Parte 1](#Parte 1)
-
-* [Parte 2](#Parte 2)
+- [Parte 1](#Parte 1)
+- [Parte 2](#Parte 2)
 
 # Parte 1
 ###### Introdução à Ciência da Computação com Python - Parte 1
